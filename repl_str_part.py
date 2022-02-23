@@ -1,3 +1,5 @@
+# Michael Hofbauer ~ hofbauer@uab.edu
+
 # Write a method to replace all spaces in a string
 # with '%20'. Except for the end and the beginning.
 
