@@ -1,3 +1,5 @@
+# Michael Hofbauer ~ hofbauer@uab.edu
+
 # Given two strings, write a function to check
 # whether they are one (or zero) edits away.
 
