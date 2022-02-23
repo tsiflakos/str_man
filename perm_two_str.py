@@ -1,4 +1,6 @@
-# Ex 1.2: Given two strings, write a method to check
+# Michael Hofbauer ~ hofbauer@uab.edu
+
+# Given two strings, write a method to check
 # if one is a permutation of the other.
 
 def f():
