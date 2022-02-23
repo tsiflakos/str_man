@@ -1,4 +1,6 @@
-# Ex 1.1: Implement an algorithm to check
+# Michael Hofbauer ~ hofbauer@uab.edu
+
+# Implement an algorithm to check
 # whether a string has all unique characters.
 
 def f():
